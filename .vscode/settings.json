@@ -1,0 +1,21 @@
+{
+    "files.associations": {
+        "*.cmd": "asm-collection",
+        "*.tcl": "ini",
+        "gpio.h": "c",
+        "sysctl.h": "c",
+        "freertos.h": "c",
+        "task.h": "c",
+        "stdbool.h": "c",
+        "hw_memmap.h": "c",
+        "interrupt.h": "c",
+        "uart.h": "c",
+        "pin_map.h": "c",
+        "queue_main.h": "c",
+        "stdint.h": "c",
+        "string.h": "c",
+        "semphr.h": "c",
+        "uartstdio.h": "c",
+        "hw_ints.h": "c"
+    }
+}

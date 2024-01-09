@@ -1,0 +1,27 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:/ti/TivaWare_C_Series-2.2.0.295",
+                "C:/ti/ccs1100/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include",
+                "C:/ti/TivaWare_C_Series-2.2.0.295/third_party/FreeRTOS/Source/include",
+                "C:/ti/TivaWare_C_Series-2.2.0.295/third_party/FreeRTOS/Source/portable/CCS/ARM_CM4F"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE",
+                // "UART_BUFFERED",
+                "PART_TM4C1294NCPDT"
+            ],
+            "windowsSdkVersion": "10.0.19041.0",
+            "compilerPath": "C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/VC/Tools/MSVC/14.29.30133/bin/Hostx64/x64/cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "windows-msvc-x64"
+        }
+    ],
+    "version": 4
+}
